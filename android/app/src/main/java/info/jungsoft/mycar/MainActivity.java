@@ -1,0 +1,5 @@
+package info.jungsoft.mycar;
+
+import com.getcapacitor.BridgeActivity;
+
+public class MainActivity extends BridgeActivity {}

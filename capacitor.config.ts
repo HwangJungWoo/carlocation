@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'ionic-react-carlocation',
+  appId: 'info.jungsoft.mycar',
+  appName: '내차위치',
   webDir: 'build',
   server: {
     androidScheme: 'https'
